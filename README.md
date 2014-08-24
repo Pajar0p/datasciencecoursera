@@ -1,4 +1,4 @@
-RAW to TIDT data for: "Human Activity Recognition Using Smartphones Data Set"
+RAW to TIDY data for: "Human Activity Recognition Using Smartphones Data Set"
 ===================
 
 *The file "run_analysis.R" is code to be run in the R software* 
@@ -18,8 +18,8 @@ it should be a data.frame with 180 rows and variables 68 variables
 
 The dataset is available in the followin url:
 
-[.zip file with the datasets](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
+..* [.zip file with the datasets](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) .
 
 For more information of the dataset please check the below url:
-[Furthe information](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+..* [Furthe information](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) .
 
